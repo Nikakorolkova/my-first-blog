@@ -1,0 +1,5 @@
+# активируешь виртуальное окружепие
+source /Users/geust/programs/djangogirls/myvenv/bin/activate
+
+
+python manage.py runserver
